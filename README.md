@@ -24,6 +24,9 @@ The repository is organized as follows:
   - `results/`:
       - description: "Stores the prediction files (CSV) for each model"
       - details: "Each CSV file can be submitted directly to Kaggle"
+  
+  - `ANLP_Competition_2025_report.pdf`:
+      - description: "Report of the work"
 
   - `README.md`: "Current file"
 
